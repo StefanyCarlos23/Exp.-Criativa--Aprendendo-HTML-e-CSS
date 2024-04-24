@@ -1,0 +1,16 @@
+.image-container {
+    position: relative;
+    width:max-content ;   
+    height: max-content;
+  }
+  .image-text {
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    font-weight: bolder;
+  }
+  
